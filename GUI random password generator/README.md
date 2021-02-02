@@ -11,7 +11,9 @@ You only need Python to run this script. You can visit [here](https://www.python
 ## How to run the app?
 * Running the app is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
- `python password_generator.py` 
+```
+python password_generator.py
+```
 
 **Or**  
 
@@ -22,5 +24,7 @@ You only need Python to run this script. You can visit [here](https://www.python
 *Follow this path: (Windows 10)*  
 Settings/ Update and security/ Windows Security/ Virus and thread protection/ Manage settings/ Turn off
   
+## Screenshot
+![](screenshot.png)  
 ## Author Name
 [Mhmd Ali Hsen](https://github.com/mhmdali102)
