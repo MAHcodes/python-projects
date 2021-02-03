@@ -24,7 +24,7 @@ python password_generator.py
 *Follow this path: (Windows 10)*  
 Settings/ Update and security/ Windows Security/ Virus and thread protection/ Manage settings/ Turn off
   
-## Screenshot
+## Screenshot showing the sample use of the app
 ![](screenshot.png)  
 ## Author Name
 [Mhmd Ali Hsen](https://github.com/mhmdali102)
