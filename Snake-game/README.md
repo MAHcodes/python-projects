@@ -14,6 +14,7 @@ You need Python 3.X and windows-curses module installed in your machine to run t
 
 ## How to run the game?
 * Running the game is really simple! Just open a terminal in the folder where your script is located and run the following command :
+
     ```
     python snake_game.py
     ```  
