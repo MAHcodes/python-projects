@@ -13,16 +13,13 @@ You need Python 3.X and pytube module installed in your machine to run this scri
     ```pip3 install -r requirements.txt```
 
 ## How to run the script?
-> * *Note:* Before runnig the script, you have to choose the path of downloading (in line 12)
+*Note:* Before runnig the script, you have to choose the path of downloading (in line 12)
 
 * Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
     ```
     python youtube_video_download.py
     ```  
-
-## Screenshot showing the sample use of the game
-![](screenshot.png)  
 
 ## Author Name
 [Mhmd Ali Hsen](https://github.com/mhmdali102)
