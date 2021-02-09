@@ -11,7 +11,7 @@ You only need Python to run this script. You can visit [here](https://www.python
 ```
 python login_system.py
 ```
-## Screenshot showing the sample use of the calculator
+## Screenshot showing the sample use of the Script
 ![](screenshot.png)  
 
 ## Author Name
