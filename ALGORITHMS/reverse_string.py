@@ -1,9 +1,7 @@
 def reverse_string():
-    text = input("Enter text to reverse: ")
-    rev_text = ""
-    getlen = len(text)
+    text = input("Enter a string: ")
+    print(text[::-1])
 
-    while len(rev_text) != getlen:
-        rev_text += text[-1]
-        text = text[:-1]
-    print(rev_text)
+
+if __name__ == '__main__':
+    reverse_string()
