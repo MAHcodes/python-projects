@@ -1,8 +1,7 @@
-# Today Events
-A terminal based script to get events of the days.
-* Get the events for the current day automatically.
-* Get the events for a custom day.
-> *Note:* You have to enter the zero if the day/month is one digit. (see example in the screenshot below)
+# Opensooq scraper
+Python script to scrape data from opensooq.com
+* Scrape data about all cars from the last 10 pages.
+* Save the data to a csv file automatically.
 
 ## Prerequisites
 You need Python 3.X and some modules installed in your machine to run this script.
@@ -17,12 +16,8 @@ You need Python 3.X and some modules installed in your machine to run this scrip
 * Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
     ```
-    python today_events.py
+    python opensooq.py
     ```  
-
-
-## Screenshot showing the sample use of the script
-![](screenshot.png)  
 
 ## Author Name
 [Mhmd Ali Hsen](https://github.com/mhmdali102)
