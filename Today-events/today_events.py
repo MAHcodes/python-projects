@@ -28,7 +28,7 @@ def custom(d, m):
 
 def getev():
     for article in soup.find_all("div", class_="card card--day linked"):
-        img = article.find("img")["src"]
+        # img = article.find("img")["src"]
         date = article.find("div", class_="date_day").text
         event = article.find("h3").text
         if date == today:
