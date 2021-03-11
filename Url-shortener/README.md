@@ -1,10 +1,7 @@
 # Url Shortener
 Script to shrink urls using bit.ly API.
 * Simple and fast URL shortener!
-* Get the weather hourly forecast for your city.
-* Get the weather daily forecast for your city. 
-
-## Prerequisites
+* ## Prerequisites
 You need Python 3.X and some modules installed in your machine to run this script.
 * To download Python, you can visit [here](https://www.python.org/downloads/). 
 * You can easly download the `requirements.txt` file and run the following command in a terminal :
@@ -13,11 +10,10 @@ You need Python 3.X and some modules installed in your machine to run this scrip
 **Or** you can simply use any Python online compiler.
 
 ## How to run the script?
-
 * Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
     ```
-    python3 weather_app.py
+    python3 url_shortener.py
     ```  
 
 ## Screenshot showing the sample use of the script
